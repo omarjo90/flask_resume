@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AppiumPython/.idea/AppiumPython.iml" filepath="$PROJECT_DIR$/../AppiumPython/.idea/AppiumPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UDR_API/.idea/UDR_API.iml" filepath="$PROJECT_DIR$/../UDR_API/.idea/UDR_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UDR_UI/.idea/UDR_UI.iml" filepath="$PROJECT_DIR$/../UDR_UI/.idea/UDR_UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flask_resume.iml" filepath="$PROJECT_DIR$/.idea/flask_resume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fn_aft/.idea/fn_aft.iml" filepath="$PROJECT_DIR$/../fn_aft/.idea/fn_aft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../interview/.idea/interview.iml" filepath="$PROJECT_DIR$/../interview/.idea/interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../interview_omar/.idea/interview_omar.iml" filepath="$PROJECT_DIR$/../interview_omar/.idea/interview_omar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../omar-valerin/.idea/omar-valerin.iml" filepath="$PROJECT_DIR$/../omar-valerin/.idea/omar-valerin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing_pytest/.idea/testing_pytest.iml" filepath="$PROJECT_DIR$/../testing_pytest/.idea/testing_pytest.iml" />
+    </modules>
+  </component>
+</project>
